@@ -38,3 +38,4 @@
 .rbenv-gemsets
 .ruby-version
 
+/.env
